@@ -27,18 +27,6 @@ AgentFlow takes a simple query and turns it into a full research workflow:
 
 ---
 
-## 📂 Project Structure
-├── api/ # API routes
-├── graph/ # Agent workflow logic
-├── models/ # Request/response models
-├── config.py # LLM + settings
-├── main.py # FastAPI app
-├── .env # Environment variables
-└── requirements.txt # Dependencies
-
-
----
-
 ## 🔑 Environment Setup
 
 Create a `.env` file:
